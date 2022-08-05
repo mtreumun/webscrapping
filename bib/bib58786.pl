@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>CYBERLIBER: an Electronic Library for Mycology - home page</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=15 RIGHTMARGIN=15>
+<FONT FACE="Arial" SIZE=2>
+
+<P ALIGN="justify"><B>Search result</B>:
+
+<BR><BR>1 record was found.
+
+<P>
+
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD WIDTH=3% VALIGN="top"><LI></TD>
+<TD WIDTH=97% VALIGN="top"><P ALIGN="justify"><FONT FACE="Arial" SIZE=2>
+<B>Goldstein, L.E.; Achilova, G.Sh.</B> [as &#1043;&#1086;&#1083;&#1100;&#1076;&#1096;&#1090;&#1077;&#1081;&#1085;, &#1051;.&#1045;.; &#1040;&#1095;&#1080;&#1083;&#1086;&#1074;&#1072;, &#1043;.&#1064;.] (1976). &#1042;&#1099;&#1103;&#1074;&#1083;&#1077;&#1085;&#1080;&#1077; &#1092;&#1077;&#1085;&#1086;&#1090;&#1080;&#1087;&#1086;&#1074; <I>Verticillium dahliae</I> Kleb. &#1087;&#1088;&#1080; &#1089;&#1077;&#1083;&#1077;&#1082;&#1094;&#1080;&#1080; &#1093;&#1083;&#1086;&#1087;&#1095;&#1072;&#1090;&#1085;&#1080;&#1082;&#1072; &#1085;&#1072; &#1074;&#1080;&#1083;&#1090;&#1086;&#1091;&#1089;&#1090;&#1086;&#1081;&#1095;&#1080;&#1074;&#1086;&#1089;&#1090;&#1100; [Identification of phenotypes of <I>Verticillium dahliae</I> Kleb. in cotton breeding for wilt resistance]. &#1052;&#1080;&#1082;&#1086;&#1083;&#1086;&#1075;&#1080;&#1103; &#1080; &#1060;&#1080;&#1090;&#1086;&#1087;&#1072;&#1090;&#1086;&#1083;&#1086;&#1075;&#1080;&#1103; [<I>Mycology & Phytopathology</I>] <B>10</B> (5): 420-421.
+</FONT></P>
+</TD></TR>
+
+</TABLE>
+
+
+<P>
+
+<HR NOSHADE>
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD ALIGN=LEFT VALIGN=TOP><FONT FACE="Arial" SIZE=2><A HREF="http://www.cybertruffle.org.uk/cyberliber/index.htm" TARGET="_top">Home page</A>
+</FONT></TD><TD ALIGN=RIGHT VALIGN=TOP></TD></TR></TABLE>
+
+</BODY>
+</HTML>

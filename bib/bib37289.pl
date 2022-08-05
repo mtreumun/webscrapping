@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>CYBERLIBER: an Electronic Library for Mycology - home page</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=15 RIGHTMARGIN=15>
+<FONT FACE="Arial" SIZE=2>
+
+<P ALIGN="justify"><B>Search result</B>:
+
+<BR><BR>1 record was found.
+
+<P>
+
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD WIDTH=3% VALIGN="top"><LI></TD>
+<TD WIDTH=97% VALIGN="top"><P ALIGN="justify"><FONT FACE="Arial" SIZE=2>
+<B>Costache, M.; L&#259;c&#259;tus, V.; L&#259;c&#259;tus, F.; Donoiu, E.</B> (1980). Recherches concernant l&#8217;influence de la nutrition &#224; azote sur le jaunissement des tomates produit par <I>Verticillium dahliae</I> Kleb. <I>Bulletin del&#8217;Acad&#233;mie des Sciences Agricoles et Foresti&#232;res</I> <B>10</B>: 129-134.
+</FONT></P>
+</TD></TR>
+
+</TABLE>
+
+
+<P>
+
+<HR NOSHADE>
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD ALIGN=LEFT VALIGN=TOP><FONT FACE="Arial" SIZE=2><A HREF="http://www.cybertruffle.org.uk/cyberliber/index.htm" TARGET="_top">Home page</A>
+</FONT></TD><TD ALIGN=RIGHT VALIGN=TOP></TD></TR></TABLE>
+
+</BODY>
+</HTML>

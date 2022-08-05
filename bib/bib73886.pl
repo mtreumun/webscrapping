@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>CYBERLIBER: an Electronic Library for Mycology - home page</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=15 RIGHTMARGIN=15>
+<FONT FACE="Arial" SIZE=2>
+
+<P ALIGN="justify"><B>Search result</B>:
+
+<BR><BR>1 record was found.
+
+<P>
+
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD WIDTH=3% VALIGN="top"><LI></TD>
+<TD WIDTH=97% VALIGN="top"><P ALIGN="justify"><FONT FACE="Arial" SIZE=2>
+<B>Sohoo, M.S.; Chahal, V.P.S.; Beri, S.M.</B> (1984). Effect of <I>Rhizobium</I> inoculation on different varieties of cowpea (<I>Vigna unguiculata</I> L. Walp.). <I>Journal of Research</I> Ludhiana, Punjab Agricultural University <B>21</B> (2): 316-319.
+</FONT></P>
+</TD></TR>
+
+</TABLE>
+
+
+<P>
+
+<HR NOSHADE>
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD ALIGN=LEFT VALIGN=TOP><FONT FACE="Arial" SIZE=2><A HREF="http://www.cybertruffle.org.uk/cyberliber/index.htm" TARGET="_top">Home page</A>
+</FONT></TD><TD ALIGN=RIGHT VALIGN=TOP></TD></TR></TABLE>
+
+</BODY>
+</HTML>

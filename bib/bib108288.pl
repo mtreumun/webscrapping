@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>CYBERLIBER: an Electronic Library for Mycology - home page</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=15 RIGHTMARGIN=15>
+<FONT FACE="Arial" SIZE=2>
+
+<P ALIGN="justify"><B>Search result</B>:
+
+<BR><BR>1 record was found.
+
+<P>
+
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD WIDTH=3% VALIGN="top"><LI></TD>
+<TD WIDTH=97% VALIGN="top"><P ALIGN="justify"><FONT FACE="Arial" SIZE=2>
+<B>Ulbrich, E.</B> (1939). Fungi. Nachtrag zu Pucciniaceae [Fungi. Addendum to Pucciniaceae] (in Melchior, H., Neue Arten vom Nanga Parbat leg. C. Troll [New species from Nanga Parbat collected by C. Troll]). <I>Notizblatt des Botanischen Gartens und Museums zu Berlin-Dahlem</I> <B>14</B> (124): 343-344.
+</FONT></P>
+</TD></TR>
+
+</TABLE>
+
+
+<P>
+
+<HR NOSHADE>
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD ALIGN=LEFT VALIGN=TOP><FONT FACE="Arial" SIZE=2><A HREF="http://www.cybertruffle.org.uk/cyberliber/index.htm" TARGET="_top">Home page</A>
+</FONT></TD><TD ALIGN=RIGHT VALIGN=TOP></TD></TR></TABLE>
+
+</BODY>
+</HTML>

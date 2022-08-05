@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<TITLE>CYBERLIBER: an Electronic Library for Mycology - home page</TITLE>
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=15 RIGHTMARGIN=15>
+<FONT FACE="Arial" SIZE=2>
+
+<P ALIGN="justify"><B>Search result</B>:
+
+<BR><BR>1 record was found.
+
+<P>
+
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD WIDTH=3% VALIGN="top"><LI></TD>
+<TD WIDTH=97% VALIGN="top"><P ALIGN="justify"><FONT FACE="Arial" SIZE=2>
+<B>Adan, O.C.G.; Horst, M.I. van der; Samson, R.A.</B> (1994). Low temperature scanning electron microscopy-study of fungal growth on gypsum-based finishes under steady-state humidities. In Samson, R.A.; Flannigan, B.; Flannigan, M.E.; Verhoeff, A.P.; Adan, O.C.G.; Hoekstra, E.S. [eds], <I>Health Implications of Fungi in Indoor Environments</I>. (Air quality monographs; vol. 2) pp. 395-414. Amsterdam; Elsevier.
+</FONT></P>
+</TD></TR>
+
+</TABLE>
+
+
+<P>
+
+<HR NOSHADE>
+<TABLE BORDER=0 WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+<TR><TD ALIGN=LEFT VALIGN=TOP><FONT FACE="Arial" SIZE=2><A HREF="http://www.cybertruffle.org.uk/cyberliber/index.htm" TARGET="_top">Home page</A>
+</FONT></TD><TD ALIGN=RIGHT VALIGN=TOP></TD></TR></TABLE>
+
+</BODY>
+</HTML>
